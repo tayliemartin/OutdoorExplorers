@@ -1,2 +1,2 @@
 # OutdoorExplorers
-Personal project including pictures from hikes. 
+Personal project which includes pictures my hikes. 
